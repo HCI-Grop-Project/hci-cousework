@@ -97,7 +97,7 @@ public class userprofile extends JFrame implements ActionListener {
         if (command.equals("Save")) {
             // Implement logic to save any editable profile information
             JOptionPane.showMessageDialog(this, "Profile information saved successfully!");
-        } else if (command.equals("Change Password")) {
+        } else if (command.equals("Change the Password")) {
             // Implement logic to open a password change dialog
             JOptionPane.showMessageDialog(this, "Password change functionality coming soon!");
         }
