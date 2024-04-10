@@ -49,4 +49,17 @@
     </dependencies>
 
 
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-clean-plugin</artifactId>
+                <version>3.3.1</version> <!-- Updated version -->
+            </plugin>
+            <!-- Other plugins -->
+        </plugins>
+    </build>
+
+
 </project>
