@@ -32,8 +32,6 @@ Senura Furniture is a Java Swing application designed for showcasing both 2D and
 1. Clone the repository:
     https://github.com/Ravindu-Priyankara/hci-cousework.git
 
-
-
 2. Open the project in your preferred IDE.
 
 3. Build and run the application.
